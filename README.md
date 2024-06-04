@@ -19,10 +19,10 @@ This is a classic Tic Tac Toe game built with React. The game features a simple 
 **CSS:** Styling the game board and making it responsive. 
 ## Screenshots
 
-![Screenshot](screenshots/GameUI.png)
-![Screenshot](screenshots/PlayerName.png)
-![Screenshot](screenshots/GameWinnerWithLogs.png)
-![Screenshot](screenshots/GameOverWithLogs.png)
+![Screenshot](./screenshots/GameUI.png)
+![Screenshot](./screenshots/PlayerName.png)
+![Screenshot](./screenshots/GameWinnerWithLogs.png)
+![Screenshot](./screenshots/GameOverWithLogs.png)
 
 
 
